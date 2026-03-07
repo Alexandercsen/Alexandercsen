@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Alexandercsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alexandercsen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Alexander Coyle Senturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexander Coyle Senturk" height="30" width="40" /></a>
-<a href="https://discord.gg/apatetika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="apatetika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Alexander Coyle Şentürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexander Coyle Şentürk" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/bYVdQyTZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/bYVdQyTZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
