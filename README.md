@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandercsen" alt="Alexandercsen" /></a> </p>
 
-Fullstack developer based in Dublin & Java Tutor @ Maynooth University. 
-Currently working with Springboot and React. Expanding my knowledge in 
-Java, C#, C++ and Kotlin. Hoping to specialise in Fullstack or backend software 
-development. 
+- 📝 Fullstack developer based in Dublin & Java Tutor @ Maynooth University. 
+     Currently working with Springboot and React. Expanding my knowledge in 
+     Java, C#, C++ and Kotlin. Hoping to specialise in Fullstack or backend software 
+     development. 
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1bZ4QyePVxA0bYj07_8kW72Xbflqk-Ulp/view?usp=drivesdk](https://drive.google.com/file/d/1bZ4QyePVxA0bYj07_8kW72Xbflqk-Ulp/view?usp=drivesdk)**
 
