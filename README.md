@@ -1,22 +1,15 @@
 # Hi 👋, I'm Alexander C
 
-### A Humble Fullstack developer
+### Fullstack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandercsen&label=Profile views&color=0e75b6&style=flat" alt="Alexandercsen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandercsen" alt="Alexandercsen" /></a> </p>
 
-- 🔭 I'm currently working on **Multiple Fullstack Springboot/React programs **
-
-- 🌱 I'm currently learning **React.JS, C++ and Kotlin**
-
-- 🤝 I'm looking for help with **Theory of computation**
-
-- 💬 Ask me about **React, Java**
-
-- 📫 How to reach me **Alexandercoyle99@gmail.com**
-
-- ⚡ Fun fact **The first name for Java was 'Oak'**
+Fullstack developer based in Dublin & Java Tutor @ Maynooth University. 
+Currently working with Springboot and React. Expanding my knowledge in 
+Java, C#, C++ and Kotlin. Hoping to specialise in Fullstack or backend software 
+development. 
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1bZ4QyePVxA0bYj07_8kW72Xbflqk-Ulp/view?usp=drivesdk](https://drive.google.com/file/d/1bZ4QyePVxA0bYj07_8kW72Xbflqk-Ulp/view?usp=drivesdk)**
 
